@@ -1,9 +1,11 @@
-<!-- Comentarios -->
+<!-- Comando para hacer comentarios -->
+
+<!--Encabezados y tamaños-->
 # Historia de Usuario
 ## Histroia de Usuario
 ### Historia de Usuario  
 
-<!--Titulo En Negrita-->  
+<!--Encabezados En Negrita-->  
 # **Historia de Usuario**  
 
 Historia de usuario creada para proyecto min tic
