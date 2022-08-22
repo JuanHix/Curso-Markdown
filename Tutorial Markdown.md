@@ -2,7 +2,7 @@
 
 <!--Encabezados y tamaños-->
 # Historia de Usuario
-## Histroia de Usuario
+## Histroia de Usuario  
 ### Historia de Usuario  
 
 <!--Encabezados En Negrita-->  
@@ -19,7 +19,7 @@ Letra Negrita:
 **Ejemplo de letra Negrita**
 
 Texto Tachado:  
-Este es un ejemplo de ~~texto~~ tachado
+Este es un ejemplo de ~~Texto tachado~~
 
 Lista desordenada: 
 * Pera
@@ -65,6 +65,7 @@ Tomate de arbol
 Maracuya
 Guayaba      
 ```  
+
 ```java
 String[] marcas = {"Volvo","BMW","Ford","Mazda"};
         for (String item : marcas){
@@ -80,7 +81,7 @@ Tablas:
 
 Cargar una imagen de url:
 
-![visual studio code logo](https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png)
+![visual studio code logo](https://i.pinimg.com/originals/42/42/9a/42429abbd6c40549e60b2fdfdced7212.jpg)
 
 Cargar una imagen de carpeta local:
 ![visual studio code logo](vscode.png "vscode logo")  
